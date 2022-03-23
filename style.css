@@ -1,0 +1,23 @@
+* {
+  font-family: "Comic Sans MS", "Comic Sans", cursive;
+  background-color: green;
+  color: white;
+  font-size: 50px;
+  text-align: center;
+}
+
+#timer {
+  font-size: 300px;
+  text-shadow: 2px 2px 16px rgba(255,0,254,1);
+}
+
+button {
+  background: black;
+}
+
+.add {
+  color: aqua;
+}
+.minus{
+  color: red;
+}
